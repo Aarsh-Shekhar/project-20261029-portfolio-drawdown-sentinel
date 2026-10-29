@@ -1,0 +1,146 @@
+[
+  {
+    "id": "position-001",
+    "exposure": 30875,
+    "signal": 0.246,
+    "urgency": 7
+  },
+  {
+    "id": "position-002",
+    "exposure": 12121,
+    "signal": 0.489,
+    "urgency": 1
+  },
+  {
+    "id": "position-003",
+    "exposure": 24577,
+    "signal": 0.699,
+    "urgency": 4
+  },
+  {
+    "id": "position-004",
+    "exposure": 62132,
+    "signal": 0.136,
+    "urgency": 9
+  },
+  {
+    "id": "position-005",
+    "exposure": 71364,
+    "signal": 0.458,
+    "urgency": 2
+  },
+  {
+    "id": "position-006",
+    "exposure": 71865,
+    "signal": 0.496,
+    "urgency": 6
+  },
+  {
+    "id": "position-007",
+    "exposure": 38764,
+    "signal": 0.118,
+    "urgency": 9
+  },
+  {
+    "id": "position-008",
+    "exposure": 47229,
+    "signal": 0.809,
+    "urgency": 9
+  },
+  {
+    "id": "position-009",
+    "exposure": 46315,
+    "signal": 0.934,
+    "urgency": 6
+  },
+  {
+    "id": "position-010",
+    "exposure": 40773,
+    "signal": 0.125,
+    "urgency": 8
+  },
+  {
+    "id": "position-011",
+    "exposure": 80502,
+    "signal": 0.126,
+    "urgency": 1
+  },
+  {
+    "id": "position-012",
+    "exposure": 74939,
+    "signal": 0.911,
+    "urgency": 6
+  },
+  {
+    "id": "position-013",
+    "exposure": 15983,
+    "signal": 0.4,
+    "urgency": 6
+  },
+  {
+    "id": "position-014",
+    "exposure": 17216,
+    "signal": 0.754,
+    "urgency": 9
+  },
+  {
+    "id": "position-015",
+    "exposure": 37620,
+    "signal": 0.614,
+    "urgency": 9
+  },
+  {
+    "id": "position-016",
+    "exposure": 41790,
+    "signal": 0.572,
+    "urgency": 7
+  },
+  {
+    "id": "position-017",
+    "exposure": 16289,
+    "signal": 0.745,
+    "urgency": 9
+  },
+  {
+    "id": "position-018",
+    "exposure": 7912,
+    "signal": 0.889,
+    "urgency": 6
+  },
+  {
+    "id": "position-019",
+    "exposure": 50999,
+    "signal": 0.631,
+    "urgency": 8
+  },
+  {
+    "id": "position-020",
+    "exposure": 56180,
+    "signal": 0.629,
+    "urgency": 8
+  },
+  {
+    "id": "position-021",
+    "exposure": 2059,
+    "signal": 0.236,
+    "urgency": 4
+  },
+  {
+    "id": "position-022",
+    "exposure": 86578,
+    "signal": 0.511,
+    "urgency": 1
+  },
+  {
+    "id": "position-023",
+    "exposure": 40107,
+    "signal": 0.159,
+    "urgency": 3
+  },
+  {
+    "id": "position-024",
+    "exposure": 79761,
+    "signal": 0.737,
+    "urgency": 4
+  }
+]
